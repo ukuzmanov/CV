@@ -11,13 +11,13 @@
   </head>
   <body class="is-preload">
     <div id="wrapper">
-      <div id="bg" style="background: #348cb2 url(experience.png) center; height: 100%"></div>
+      <div id="bg" style="background: #348cb2 url(nightalps.png) center; height: 100%"></div>
       <div id="overlay"></div>
       <div id="main">
         <!-- Header -->
         <header id="header">
           <h1>Experience</h1>
-          <p>•&nbsp; Historia Magistra Vitae &nbsp;•</p>
+          <p>•&nbsp; Acta non verba &nbsp;•</p>
           <nav>
             <ul>
               <li><a href="index.html" class="icon solid fa-home">
@@ -47,18 +47,108 @@
             </ul>
           </nav>
           <br>
-          <div>
-            <h1><i>Past Experience</i></h1>
+          <h3>Professional Experience</h3>
+          <h5> <br>
+            2021-2022 <br>
+            <b>Proteomics Consultant</b><br>
+            Dalriada Therapeutics Inc., Mississauga, ON, CA <br>
+            Consulting in the design, execution, and bioinformatic and statistical analysis of proteomics
+            experiments.<br>
             <br>
-            <h2>Research Associate</h2>
-            <h3>Department of Physiology, University of Toronto<br>
-              Ted Rogers Centre for Heart Research</h3>
+            2020-present<br>
+            <b>Founder</b> <br>
+            LaraAna – Kuzmanov Consulting Inc., Mississauaga, ON, CA <br>
+            Providing proteomics and bioinformatics consulting services for
+            several drug development companies (Dalriada Therapeutics, Dunad
+            Therapeutics, Janpix Bio) <br>
             <br>
-            <h2>Lecturer/Course Co-ordinator</h2>
-            <h3>PSL1040 - Systems Biology in Physiology<br>
-              Department of Physiology, University of Toronto</h3>
+            2016-2019<br>
+            <b>Co-founder/Chief Scientific Officer </b><br>
+            Arendi Core Inc., Toronto, ON, CA <br>
+            Formerly an H2i and MaRs Ventures bio-incubator resident company <br>
+            Accepted into and completed the 2018-2019 “Entrepreneurship for
+            Cardiovascular Health Opportunities” training program and funding
+            competition <br>
+            2018 SVIEF-STAR pitch competition finalist <br>
             <br>
-          </div>
+            2015-2018<br>
+            <b>Post-Doctoral Research Fellow </b><br>
+            Ted Rogers Centre for Heart Research, Toronto, ON, CA <br>
+            Supervisor: Dr. Anthony O. Gramolini <br>
+            Topic: Phosphoproteomic and PTM study of cardiac pathologies in
+            mouse models of disease and clinical samples. <br>
+            <br>
+            2012-2018<br>
+            <b>Post-Doctoral Research Fellow </b><br>
+            Donnelly Centre for Cellular and Biomolecular Research, Toronto, ON,
+            CA <br>
+            Supervisor: Dr. Andrew Emili <br>
+            Topic: Mass spectrometry-based and computational investigation of
+            the roles post-translational modifications play in molecular
+            signaling mechanisms. <br>
+            <br>
+            2007-2008<br>
+            <b>Research Assistant</b><br>
+            University of Toronto/Mt. Sinai Hospital <br>
+            <br>
+            1997–2007<br>
+            <b>System Administrator</b><br>
+            Kuzmanov and Associates Inc. <br>
+            <br>
+            1996<br>
+            <b>Assistant system administrator</b><br>
+            Oasis Technology Ltd. </h5>
+          <br>
+          <h3> Teaching Experience </h3>
+          <h5> <br>
+            2022-present <br>
+            University of Toronto, Department of Physiology, <b>Course
+              co-ordinator/Lecturer </b><br>
+            PSL1040H Systems Biology in Physiology.
+            <br>
+            <br>
+            2021 <br>
+            University of Toronto, Department of Anatomy, <b>Lecturer </b><br>
+            Lectured on mass spectrometry-based proteomics in biomedical
+            research for ANA498.
+            <br>
+            <br>
+            2019-present <br>
+            University of Toronto, Faculty of Medicine, <b>Lecturer
+            </b><br>
+            Lectured on network biology analysis in cardiovascular research for
+            JCV3065.
+            <br>
+            <br>
+            2018-present <br>
+            University of Toronto, Department of Laboratory Medicine and
+            Pathobiology, <b>Lecturer
+            </b><br>
+            Held lectures on proteomics applications to study of
+            post-translational modifications for LMP1535 and LMP1207.
+            <br>
+            <br>
+            2005-2007 <br>
+            McMaster University, Department of Biochemistry, <b>Teaching
+              Assistant
+            </b><br>
+            Instructed a basic biochemistry lab course (3L03) to third year
+            students for two semesters.
+            <br>
+            <br>
+            2005 <br>
+            McGill University, Department of Biology, <b>Teaching Assistant
+            </b><br>
+            Prepared and conducted laboratory exercises for a laboratory course
+            in Cell and Molecular biology (BIOL 112).
+            <br>
+            <br>
+            2004 <br>
+            McGill University, Department of Biology, <b>Teaching
+              Assistant
+              </b><br>
+            Conducted tutorial sessions for an introductory Molecular Biology
+            course (BIOL 200). </h5>
           <br>
           <br>
           <br>
