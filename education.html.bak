@@ -11,13 +11,12 @@
   </head>
   <body class="is-preload">
     <div id="wrapper">
-      <div id="bg" style="background: #348cb2 url(education.png) center; height: 100%"></div>
+      <div id="bg" style="background: #348cb2 url(wata.png) center; height: 100%"></div>
       <div id="overlay"></div>
-      <div id="main">
-        <!-- Header -->
+      <div id="main"> <!-- Header -->
         <header id="header">
-          <h1>Education</h1>
-          
+          <h1>EDUCATION</h1>
+          <p>•&nbsp; Repetitio est mater studiorum &nbsp;•</p>
           <nav>
             <ul>
               <li><a href="index.html" class="icon solid fa-home">
