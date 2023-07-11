@@ -13,8 +13,7 @@
     <div id="wrapper">
       <div id="bg" style="background: #348cb2 url(misty.png) center"></div>
       <div id="overlay"></div>
-      <div id="main">
-        <!-- Header -->
+      <div id="main"> <!-- Header -->
         <header id="header">
           <h1>Skills</h1>
           <p>•&nbsp; Destitutus ventis, remos adhibe &nbsp;•</p>
@@ -48,15 +47,32 @@
           </nav>
           <br>
           <div>
-            <h1><i>Past Experience</i></h1>
+            <h3>
+              Straight Outta ChatGPT, but still true:
+            </h3>
             <br>
-            <h2>Research Associate</h2>
-            <h3>Department of Physiology, University of Toronto<br>
-              Ted Rogers Centre for Heart Research</h3>
-            <br>
-            <h2>Lecturer/Course Co-ordinator</h2>
-            <h3>PSL1040 - Systems Biology in Physiology<br>
-              Department of Physiology, University of Toronto</h3>
+            <h5>
+Bioinformatics: Proficient in various bioinformatics tools, databases, and algorithms used for analyzing omics data, including proteomics, genomics, transcriptomics, and metabolomics.
+<br><br>Proteomics: Extensive knowledge and experience in experimental design, sample preparation, protein extraction, separation techniques (e.g., gel electrophoresis, liquid chromatography), mass spectrometry-based proteomics, data interpretation, and identification of protein-protein interactions.
+<br><br>Omics Data Analysis: Strong expertise in omics data analysis, integration, and interpretation using statistical methods, machine learning algorithms, and data visualization tools. Familiarity with omics data repositories and resources.
+<br><br>AI Applications: Proficient in applying machine learning and artificial intelligence techniques to analyze and model biological data, including the development and implementation of predictive models, clustering algorithms, and deep learning architectures for omics data analysis.
+<br><br>Computational Biology: Solid programming skills (e.g., Python, R) for data processing, statistical analysis, and visualization. Experience in developing custom scripts and pipelines for high-throughput data analysis.
+<br><br>Pathway and Network Analysis: Proficient in pathway and network analysis tools to identify key biological pathways, protein-protein interactions, and regulatory networks. Understanding of pathway enrichment analysis and network visualization techniques.
+<br><br>Data Mining and Visualization: Skilled in mining and extracting knowledge from complex biological datasets using data mining techniques, pattern recognition, and visualization tools. Ability to present data and results in a clear and visually appealing manner.
+<br><br>Statistical Analysis: Strong background in statistical analysis methods for omics data, including hypothesis testing, multivariate analysis, regression analysis, and survival analysis. Experience with statistical software packages (e.g., R, SAS, SPSS).
+<br><br>Biochemistry and Molecular Biology: Proficient in experimental techniques used in biochemistry and molecular biology, including DNA/RNA isolation, PCR, cloning, protein purification, enzymatic assays, western blotting, and immunoprecipitation.
+<br><br>Analytical Chemistry: Familiarity with analytical chemistry techniques used in bioanalytical research, such as chromatography (e.g., HPLC, GC), mass spectrometry, spectroscopy, and data analysis for small molecule identification and quantification.
+<br><br>Supervisory Skills: Experience in supervising and leading research teams, managing projects, and mentoring junior scientists. Strong organizational skills, ability to prioritize tasks, delegate responsibilities, and ensure timely completion of projects.
+<br><br>Leadership Skills: Demonstrated leadership abilities, including the ability to effectively communicate goals, motivate team members, and foster collaboration and innovation within multidisciplinary teams.
+<br><br>Project Management: Proven track record in managing complex projects, including resource allocation, timeline management, risk assessment, and reporting progress to stakeholders.
+<br><br>Technical Writing: Proficient in writing and presenting scientific reports, manuscripts, and grant proposals. Ability to effectively communicate complex scientific concepts to diverse audiences.
+<br><br>Laboratory Techniques: Proficient in a wide range of laboratory techniques commonly used in biochemistry, molecular biology, and analytical chemistry, such as gel electrophoresis, DNA sequencing, mass spectrometry, and spectroscopic techniques.
+<br><br>Organ-on-a-Chip: Experience in designing and working with organ-on-a-chip systems, including microfluidics, cell culture, and integration of multiple cell types to mimic tissue-level interactions for drug screening and toxicity testing.
+<br><br>Drug Discovery: Knowledge of drug discovery processes and strategies, including target identification and validation, high-throughput screening, lead optimization, and preclinical evaluation of drug candidates.
+<br><br>In vitro Assays: Proficiency in developing and performing in vitro assays to evaluate drug efficacy, including cell viability assays, enzyme kinetics, receptor binding assays, and functional assays for studying drug-target interactions.
+<br><br>Translational Research: Understanding of translational research principles and the ability to bridge the gap between preclinical and clinical studies, translating laboratory findings into potential therapeutic applications.
+
+            </h5>
             <br>
           </div>
           <br>
