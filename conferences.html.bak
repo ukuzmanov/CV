@@ -11,7 +11,7 @@
   </head>
   <body class="is-preload">
     <div id="wrapper">
-      <div id="bg" style="background: #348cb2 url(redsands.png) center;"></div>
+      <div id="bg" style="background: #348cb2 url(redsands.png) bottom left;"></div>
       <div id="overlay"></div>
       <div id="main"> <!-- Header -->
         <header id="header">
@@ -102,7 +102,7 @@
           <h3> Poster Presentations and Abstracts </h3>
           <h5>
             <br>
-            Kuzmanov U, Reitz CJ, Wang EY, Tavassoli M, Kim DH, Hadipour-Lakmehsari S, Shah S, Teng ACT, Billia F, Emili A, Radisic M, Oudit GY, Gramolini AO.  Global phosphoproteomic profiling of signaling pathway aberrations in human and mouse cardiomyopathies with differing etiologies.  HUPO 2022, World Annual Congress of the Human Proteome Organization, Cancun, Mexico.
+            Kuzmanov U, Reitz CJ, Wang EY, Tavassoli M, Kim DH, Hadipour-Lakmehsari S, Shah S, Teng ACT, Billia F, Emili A, Radisic M, Oudit GY, Gramolini AO.  (2022) Global phosphoproteomic profiling of signaling pathway aberrations in human and mouse cardiomyopathies with differing etiologies.  HUPO 2022, World Annual Congress of the Human Proteome Organization, Cancun, Mexico.
             <br><br>
             Reitz CJ, Tavassoli M, Kim DH, Hadipour-Lakmehsari S, Shah S, Teng
             ACT, Emili A, Oudit GY, Kuzmanov U, Gramolini AO. (2022) Integrative
